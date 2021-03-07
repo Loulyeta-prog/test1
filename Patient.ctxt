@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Patient
+comment0.text=\r\n\ @author\ Loulyeta\ Al\ Arnaout\r\n\ @version\ jan2013\r\n
+comment1.params=pName\ pKasse
+comment1.target=Patient(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ name()
+comment3.params=
+comment3.target=java.lang.String\ kasse()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

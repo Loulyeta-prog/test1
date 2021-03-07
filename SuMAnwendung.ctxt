@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=SuMAnwendung
+comment1.params=
+comment1.target=SuMAnwendung()
+comment1.text=\r\n\ Konstruktor\r\n
+comment2.params=
+comment2.target=void\ aktualisiere()
+comment3.params=
+comment3.target=void\ hatKnopfPatientOhneEkgAnmeldenGeklickt()
+comment3.text=\r\n\ Vorher\:\ Ereignis\ GeklicktvonhatKnopfPatientOhneEkgAnmelden\ fand\ statt.\r\n\ Nachher\:\ (schreiben\ Sie,\ was\ in\ dieser\ Methode\ ausgefuehrt\ wird)\r\n
+comment4.params=
+comment4.target=void\ hatKnopfPatientMitEkgAnmeldenGeklickt()
+comment4.text=\r\n\ Vorher\:\ Ereignis\ GeklicktvonhatKnopfPatientMitEkgAnmelden\ fand\ statt.\r\n\ Nachher\:\ (schreiben\ Sie,\ was\ in\ dieser\ Methode\ ausgefuehrt\ wird)\r\n
+comment5.params=
+comment5.target=void\ hatKnopfPatientAbmeldenGeklickt()
+comment5.text=\r\n\ Vorher\:\ Ereignis\ GeklicktvonhatKnopfPatientAbmelden\ fand\ statt.\r\n\ Nachher\:\ (schreiben\ Sie,\ was\ in\ dieser\ Methode\ ausgefuehrt\ wird)\r\n
+comment6.params=
+comment6.target=void\ hatKnopfMessungBeendenGeklickt()
+comment6.text=\r\n\ Vorher\:\ Ereignis\ GeklicktvonhatKnopfMessungBeenden\ fand\ statt.\r\n\ Nachher\:\ (schreiben\ Sie,\ was\ in\ dieser\ Methode\ ausgefuehrt\ wird)\r\n
+comment7.params=
+comment7.target=void\ hatKnopfProgrammBeendenGeklickt()
+comment7.text=\r\n\ Vorher\:\ Ereignis\ GeklicktvonhatKnopfProgrammBeenden\ fand\ statt.\r\n\ Nachher\:\ (schreiben\ Sie,\ was\ in\ dieser\ Methode\ ausgefuehrt\ wird)\r\n
+numComments=8
